@@ -1,0 +1,5 @@
+dormitor1 -70.977352
+hol -63.008051
+bucatarie -59.668212
+dormitor2 -nan
+dormitor2 -62.836975
